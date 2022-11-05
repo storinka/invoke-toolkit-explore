@@ -1,0 +1,19 @@
+{
+    "name": "storinka/invoke-toolkit-explore",
+    "description": "Invoke Explore for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Invoke\\Toolkit\\Explore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davyd Kohut",
+            "email": "davyd.kohut@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
