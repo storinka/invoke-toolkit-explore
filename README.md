@@ -5,7 +5,7 @@ Invoke Explore for PHP.
 ## Installation
 
 ```shell
-composer require invoke-toolkit-explore
+composer require storinka/invoke-toolkit-explore:^2
 ```
 
 ## Usage
